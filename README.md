@@ -1,5 +1,5 @@
-# kotoba-io-ireader
+# kotoba-io-reader
 
-`kotoba.io.ireader/IReader`
+`kotoba.io.reader/IReader`
 
 One definition. Reaches nothing else in this family.
