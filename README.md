@@ -1,4 +1,4 @@
-# io-ireader
+# kotoba-io-ireader
 
 `kotoba.io.ireader/IReader`
 
